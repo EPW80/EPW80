@@ -29,7 +29,7 @@
 
 📫 How to reach me: erikparrawilliams@tutanota.com
 
-✨ ![Portfolio](https://next-js-tailwind-portfolio-swart.vercel.app/)
+✨ [Portfolio](https://next-js-tailwind-portfolio-swart.vercel.app/)
 
 <!--
 **EPW80/EPW80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
