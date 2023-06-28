@@ -31,7 +31,7 @@
 
 ✨ [Portfolio](https://next-js-tailwind-portfolio-swart.vercel.app/)
 
-⚡ You can donate any of your unwanted Ethereum [here](https://buy-me-a-coffee-solidity-de-fi-tipping-app.vercel.app/)
+⚡ [Ethereum tip jar](https://buy-me-a-coffee-solidity-de-fi-tipping-app.vercel.app/)
 
 <!--
 **EPW80/EPW80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
