@@ -1,11 +1,9 @@
-  <!-- <p align="center">
-<img 
-     src='images\truckee.gif' 
-     alt='water'
-     width='50%'
-     style='margin: 0 auto'
-/>
-</p> -->
+<div align="center"> <!-- This will center the image on the page -->
+
+![water](images/truckee.gif){: style="border-radius: 50%; width: 50%;"}
+
+</div>
+
 
 
 
