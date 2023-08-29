@@ -28,8 +28,6 @@
 
 📫 How to reach me: erikparrawilliams@tutanota.com
 
-✨ [Portfolio](https://next-js-tailwind-portfolio-swart.vercel.app/)
-
 ⚡ [Ethereum tip jar](https://buy-me-a-coffee-solidity-de-fi-tipping-app.vercel.app/)
 
 <!--
