@@ -28,7 +28,7 @@
 
 📫 How to reach me: erikparrawilliams@tutanota.com
 
-🤔 My broken ![portfolio](https://next-js-tailwind-portfolio-swart.vercel.app/) Feel free to leave any tips
+🤔 My broken [portfolio](https://next-js-tailwind-portfolio-swart.vercel.app/) Feel free to leave any tips
 
 ⚡ [Ethereum tip jar](https://buy-me-a-coffee-solidity-de-fi-tipping-app.vercel.app/)
 
