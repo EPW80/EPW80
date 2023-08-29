@@ -28,7 +28,7 @@
 
 📫 How to reach me: erikparrawilliams@tutanota.com
 
-🤔 My broken [portfolio](https://next-js-tailwind-portfolio-swart.vercel.app/) located at this [issue](https://github.com/EPW80/Next.js-Tailwind-Portfolio/issues/1#issue-1870937761)
+🤔 My broken [portfolio](https://next-js-tailwind-portfolio-swart.vercel.app/) with [issue](https://github.com/EPW80/Next.js-Tailwind-Portfolio/issues/1#issue-1870937761)
 
 ⚡ [Ethereum tip jar](https://buy-me-a-coffee-solidity-de-fi-tipping-app.vercel.app/)
 
