@@ -24,7 +24,7 @@
 
 🔭 Computer Science student at California State University Fullerton
 
-🔭 Full Stack Developer/UCLA coding camp
+🔭 Full Stack Developer/UCLA coding bootcamp
 
 📫 How to reach me: erikparrawilliams@tutanota.com
 
