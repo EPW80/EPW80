@@ -23,14 +23,13 @@
 
 </p> 
 
-<!--
-🔭 Computer Science student at California State University Fullerton
+🔭 Comp Sci California State University Fullerton
 
-🔭 Full Stack Developer/UCLA coding bootcamp -->
+🔭 Full Stack/UCLA
 
 📫 erikparrawilliams@tutanota.com
 
-🤔 My Froala [portfolio](https://froala-portfolio.netlify.app/)
+🤔 Froala [portfolio](https://froala-portfolio.netlify.app/)
 
 ⚡ [Ethereum tip jar](https://ethereum-tip.vercel.app/)
 
