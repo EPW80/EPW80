@@ -27,8 +27,6 @@
 
 🔭 Full Stack/UCLA
 
-📫 erikparrawilliams@tutanota.com
-
 🤔 Froala [portfolio](https://froala-portfolio.netlify.app/)
 
 ⚡ [Ethereum tip jar](https://ethereum-tip.vercel.app/)
