@@ -23,13 +23,13 @@
 
 </p> 
 
-🔭 Comp Sci California State University Fullerton
+🔭 Comp Sci student California State University Fullerton
 
-🔭 Full Stack/UCLA
+🔭 Full Stack/UCLA bootcamp cert
 
 🤔 Froala [portfolio](https://froala-portfolio.netlify.app/)
 
-⚡ [Ethereum tip jar](https://ethereum-tip.vercel.app/)
+⚡ [Ethereum tip jar](https://ethereum-tip.vercel.app/) 
 
 <!--
 **EPW80/EPW80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
