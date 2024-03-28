@@ -25,7 +25,7 @@
 
 🔭 Comp Sci student California State University Fullerton
 
-🔭 Full Stack/UCLA bootcamp cert
+🔭 Full Stack/UCLA bootcamp
 
 🤔 Froala [portfolio](https://froala-portfolio.netlify.app/)
 
