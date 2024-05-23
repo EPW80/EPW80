@@ -26,8 +26,6 @@
 
 🤔 Froala [portfolio](https://froala-portfolio.netlify.app/)
 
-⚡ [Ethereum tip jar for rager](https://ethereum-tip.vercel.app/) 
-
 <!--
 **EPW80/EPW80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
