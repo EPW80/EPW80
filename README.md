@@ -26,6 +26,8 @@
 
 🤔 Froala [portfolio](https://froala-portfolio.netlify.app/)
 
+ 🔭 I’m currently focusing only on TypeScript
+
 <!--
 **EPW80/EPW80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
