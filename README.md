@@ -16,7 +16,6 @@
   <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat"/></a>
   
 </p> --> 
-![oom](https://github.com/user-attachments/assets/7e2267ac-3197-48eb-b66f-2f4a20bc8c24)
 
 🔭 Computer Science student at California State University Fullerton
 
@@ -41,6 +40,7 @@
 <a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.heroku.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/></a>
+![finalomos](https://github.com/user-attachments/assets/5544a0ee-cee6-4bb9-8184-f0d9646e3e50)
 
 <!--
 **EPW80/EPW80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
