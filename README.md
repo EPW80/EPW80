@@ -16,6 +16,7 @@
   <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat"/></a>
   
 </p> --> 
+![oom](https://github.com/user-attachments/assets/7e2267ac-3197-48eb-b66f-2f4a20bc8c24)
 
 🔭 Computer Science student at California State University Fullerton
 
