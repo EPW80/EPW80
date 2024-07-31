@@ -5,10 +5,6 @@
      style='margin: 0 auto'
 /> -->
 
-![Omosverse](https://github.com/user-attachments/assets/cf6e0e17-be47-463b-9beb-d06619d500a4)
-
-
-
 <!--<p align="left">
   <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
