@@ -17,6 +17,12 @@
   
 </p> --> 
 
+
+
+
+![Untitledvideo-ezgif com-optimize](https://github.com/user-attachments/assets/7ebc4a5c-0f28-4853-81d8-e48dcd2d5e5f)
+
+
 🔭 Computer Science student at California State University Fullerton
 
 <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
